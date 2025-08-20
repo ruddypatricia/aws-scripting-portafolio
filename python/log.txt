@@ -1,0 +1,9 @@
+Thu Aug 21 01:28:38     2025: Bucket 'rudyola-bucket' created successfully.
+Thu Aug 21 01:30:18     2025: Starting upload to bucket 'rudyola-bucket'...
+Thu Aug 21 01:30:18     2025: Error during upload to bucket 'rudyola-bucket'.
+Thu Aug 21 01:31:08     2025: Starting upload to bucket 'rudyola-bucket'...
+2025-08-21 01:31:10.280921: File 'prueba.txt' uploaded to bucket 'rudyola-bucket'
+2025-08-21 01:31:10.511713: File 'prueba2.txt' uploaded to bucket 'rudyola-bucket'
+Thu Aug 21 01:31:10     2025: Upload completed successfully to bucket 'rudyola-bucket'.
+2025-08-21 01:31:50.313946: Object 'prueba2.txt' deleted from bucket 'rudyola-bucket'.
+Thu Aug 21 01:32:23     2025: Bucket 'rudyola-bucket' deleted successfully.
